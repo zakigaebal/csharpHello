@@ -1,0 +1,8 @@
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\bin\Debug\HelloCsharp.exe.config
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\bin\Debug\HelloCsharp.exe
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\bin\Debug\HelloCsharp.pdb
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.csproj.AssemblyReference.cache
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.csproj.CoreCompileInputs.cache
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.exe
+C:\Users\dawoon101\source\repos\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.pdb
